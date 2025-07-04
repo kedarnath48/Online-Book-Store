@@ -1,6 +1,6 @@
 # Online-Book-Store
 A full-stack web application built with Spring Boot, Spring Data JPA, Thymeleaf, and MySQL that allows users to register, view, edit, and manage books.
-🔧 Features
+Features
 
     Add and register new books
 
@@ -12,7 +12,7 @@ A full-stack web application built with Spring Boot, Spring Data JPA, Thymeleaf,
 
     "My Books" section for user-managed entries
 
-🛠️ Tech Stack
+Tech Stack
 
     Spring Boot
 
