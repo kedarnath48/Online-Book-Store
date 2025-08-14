@@ -26,4 +26,4 @@ Tech Stack
 
     This project demonstrates core CRUD functionality using the MVC pattern and serves as a learning foundation for full-stack Java web development.
 
-URL to access online book store - http://localhost:8080/
+URL to access the online book store - http://localhost:8080/
